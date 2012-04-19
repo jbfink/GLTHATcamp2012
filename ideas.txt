@@ -10,9 +10,23 @@ Who's the audience?
  * grads?
  * undergrads?
 
+Public versus academic libraries?
+ * Different approaches or the same fundamental ideas?
+
 What sort of work?
  * research wonkery?
  * replicatable, practical?
  * mix?
 
+Miscellaneous thoughts
+* Gender and the hackerspace - The sausagefest effect.
+* Perceived emphasis on electronics/STEM fields. What of the crafters, artisans, etc.?
+* Jack-of-all-trades versus subject specialists: Do we all need to be coders? 
+* The library/DH centre as a place of knowledge creation.
 
+
+
+Resources/things to read for context:
+
+http://www.shareable.net/blog/the-future-of-public-libraries-maker-spaces
+* Fayetteville Free Library Fab Lab (NY). Transliteracy, social transformation, etc.
