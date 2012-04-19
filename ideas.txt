@@ -12,6 +12,7 @@ Who's the audience?
 
 Public versus academic libraries?
  * Different approaches or the same fundamental ideas?
+ * hackerspace = public, DH centre = academic? or can cross-pollination exist?
 
 What sort of work?
  * research wonkery?
@@ -20,6 +21,7 @@ What sort of work?
 
 Miscellaneous thoughts
 * Gender and the hackerspace - The sausagefest effect.
+    * some (Oakland?) place has all-female hackerspace. Good? Bad? 
 * Perceived emphasis on electronics/STEM fields. What of the crafters, artisans, etc.?
 * Jack-of-all-trades versus subject specialists: Do we all need to be coders? 
 * The library/DH centre as a place of knowledge creation.
